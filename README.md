@@ -4,7 +4,7 @@ Documenting shortcuts for ChronAm Search
 
 ## Searching in a particular title
 
-Limiting your search to a particular title is a pain if you use the the title text facet. You can limit a search to a particular title by finding the titles LCCN/unique ID. On the loc.gov site, the LCCN is the number after https://www.loc.gov/resource/[LCCN] or https://www.loc.gov/item/[LCCN].  
+Limiting your search to a particular title can be difficult if you use the the title text facet. You can limit a search to a particular title by finding the titles LCCN/unique ID and then using that to facet. On the loc.gov site, the LCCN is the number after https://www.loc.gov/resource/[LCCN] or https://www.loc.gov/item/[LCCN].  
 
 This is the URL for page 1 of the 8/3/1941 issue of the Detroit Evening Times
 https://www.loc.gov/resource/sn88063294/1941-08-03/ed-1/?sp=1
