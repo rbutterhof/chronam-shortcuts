@@ -9,7 +9,7 @@ Limiting your search to a particular title can be difficult if you use the the t
 This is the URL for page 1 of the 8/3/1941 issue of the Detroit Evening Times
 https://www.loc.gov/resource/sn88063294/1941-08-03/ed-1/?sp=1
 
-Newspaper LCCNS often start with "sn" but they can also start with a year, like "2025"
+Newspaper LCCNS often start with "sn" but they can also start with a year, like "2025". In the above example, the LCCN is sn88063294. 
 
 One you have the LCCN for a title, you can limit that search with &fa=number_lccn:
 
