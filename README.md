@@ -21,4 +21,4 @@ I don't think it's possible to limit your search to multiple LCCNs.
 
 You can limit your search to multiple titles with full-text title option.  The following example limits your search to The Age Herald and the Alabama State Intelligencer, two Alabama titles.
 
-https://www.loc.gov/collections/chronicling-america/?dl=page&ops=AND&qs=fish&searchType=advanced&location_state=alabama&partof_title=the+age-herald+%28birmingham%2C+ala.%29+1897-1902!alabama+state+intelligencer+%28tuscaloosa%2C+ala.%29+1829-183%3F
+https://www.loc.gov/collections/chronicling-america/?dl=page&ops=AND&qs=state&searchType=advanced&location_state=alabama&partof_title=the+age-herald+%28birmingham%2C+ala.%29+1897-1902!alabama+state+intelligencer+%28tuscaloosa%2C+ala.%29+1829-183%3F
