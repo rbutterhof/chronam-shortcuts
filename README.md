@@ -16,3 +16,5 @@ One you have the LCCN for a title, you can limit that search with &fa=number_lcc
 In this example, I'm searching the pages of only the Detroit Evening Times for the word "rations". 
 
 https://www.loc.gov/collections/chronicling-america/?dl=page&ops=AND&qs=rations&searchType=advanced&fa=number_lccn:sn88063294
+
+I don't think it's possible to limit your search to multiple LCCNs. 
