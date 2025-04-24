@@ -13,6 +13,6 @@ Newspaper LCCNS often start with "sn" but they can also start with a year, like 
 
 One you have the LCCN for a title, you can limit that search with &fa=number_lccn:
 
-In this example, I'm searching the pages of the Detroit Evening Times for the word "rations". 
+In this example, I'm searching the pages of only the Detroit Evening Times for the word "rations". 
 
 https://www.loc.gov/collections/chronicling-america/?dl=page&ops=AND&qs=rations&searchType=advanced&fa=number_lccn:sn88063294
